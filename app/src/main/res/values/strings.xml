@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyCart</string>
+    <string name="txt_search">Search</string>
+    <string name="txt_product_name">Name</string>
+    <string name="txt_product_price">Price</string>
+    <string name="txt_cart_title">My Cart</string>
+    <string name="txt_cart_quantity">Quantity</string>
+    <string name="txt_cart_sum_price">Sum price</string>
+    <string name="txt_cart_total">Total</string>
+    <string name="txt_cart_checkout">Checkout</string>
+</resources>
